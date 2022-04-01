@@ -5,7 +5,7 @@ An unsupervised 3D Object detection pipeline using 3D LiDAR points
 
 ## Overview
 <p align="center">
-<img src="https://github.com/mjoshi07/3D-Detection-Pipeline/blob/main/Results/pipeline.png" width=640/>
+<img src="https://github.com/mjoshi07/3D-Detection-Pipeline/blob/main/Results/detection_pipeline.png" width=640/>
 </p>
 
 ### Read the point clouds
